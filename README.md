@@ -83,7 +83,7 @@ Prerequisite:
 Run from source:
 
 ```bash
-git clone <your-public-repo-url> claw3d
+git clone https://github.com/koshibaharuki/Claw3D
 cd claw3d
 npm install
 cp .env.example .env
